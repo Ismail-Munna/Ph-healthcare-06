@@ -1,0 +1,6 @@
+{
+  "name": "PH Healthcare System",
+  "description": "Comprehensive digital healthcare platform for online doctor consultations, appointment booking, schedules, and prescription management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
